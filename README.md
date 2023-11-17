@@ -1,4 +1,4 @@
-<h1 align="center">Hello world! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">«Hello, world!» <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 **Hi there! I am passionate about development and the IT world, aspiring to become a backend developer.**
 
