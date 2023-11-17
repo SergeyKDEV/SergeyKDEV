@@ -14,7 +14,7 @@ My Tools:
 - PyCharm
 
 Currently Learning:
-- Algorithms
+- Data Structures & Algorithms
 - Django DRF
 
 ## My Leetcode Stats
