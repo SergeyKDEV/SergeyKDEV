@@ -1,6 +1,6 @@
-**Hi there! I am passionate about development and the IT world, aspiring to become a backend developer.**
+## <p style="text-align: center;">Hello World!</p>
 
-## About Me
+**Hi there! I am passionate about development and the IT world, aspiring to become a backend developer.**
 
 My stack:
 - Python
