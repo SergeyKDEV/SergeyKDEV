@@ -20,6 +20,7 @@
           <ul>
             <li>MacOS/Linux</li>
             <li>PyCharm</li>
+            <li>Postman</li>
           </ul>
         </div>
         <div>
