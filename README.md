@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/SergeyKDEV?theme=nord&font=Montserrat&ext=heatmap)
+
 <!--
 **SergeyKDEV/SergeyKDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
