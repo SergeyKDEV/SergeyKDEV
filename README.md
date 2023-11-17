@@ -1,4 +1,4 @@
-# Hello, World!
+**Hi there! I am passionate about development and the IT world, aspiring to become a backend developer.**
 
 ## About Me
 
