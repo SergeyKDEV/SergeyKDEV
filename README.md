@@ -9,6 +9,10 @@ My stack:
 - HTML/CSS/Bootstrap
 - Basic JS
 
+Work On:
+- MacOS/Linux
+- Pycharm
+
 Currently Learning:
 - Algorithms
 - Django DRF
