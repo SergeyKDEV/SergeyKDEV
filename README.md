@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hello, World!</h1>
+  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif">
 </div>
 
 **Hi there! I am passionate about development and the IT world, aspiring to become a backend developer.**
