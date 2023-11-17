@@ -9,9 +9,9 @@ My stack:
 - HTML/CSS/Bootstrap
 - Basic JS
 
-Work On:
+My Tools:
 - MacOS/Linux
-- Pycharm
+- PyCharm
 
 Currently Learning:
 - Algorithms
