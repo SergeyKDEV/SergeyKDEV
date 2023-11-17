@@ -18,7 +18,9 @@ Currently Learning:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SergeyKDEV?theme=nord&font=Montserrat&ext=heatmap)
 
 ---
-https://komarev.com/ghpvc/?username=SergeyKDEV
+
+![](https://komarev.com/ghpvc/?username=SergeyKDEV)
+
 <!--
 **SergeyKDEV/SergeyKDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
