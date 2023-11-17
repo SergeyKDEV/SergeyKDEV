@@ -1,7 +1,17 @@
 # Hello, World!
 
+## About Me
 
+My stack:
+- Python
+- Django
+- SQL
+- HTML/CSS/Bootstrap
+- Basic JS
 
+Currently Learning:
+- Algorithms
+- Django DRF
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SergeyKDEV?theme=nord&font=Montserrat&ext=heatmap)
 
