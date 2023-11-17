@@ -15,7 +15,7 @@ Currently Learning:
 - Algorithms
 - Django DRF
 
-## Leetcode Stats
+## My Leetcode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SergeyKDEV?theme=nord&font=Montserrat&ext=heatmap)
 
