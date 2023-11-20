@@ -8,7 +8,7 @@
         <div style="width: 20%;">
           <p style="font-weight: bold;">My stack:</p>
           <ul>
-            <li>Pythom</li>
+            <li>Python</li>
             <li>Django</li>
             <li>SQL</li>
             <li>HTML/CSS/Bootstrap</li>
