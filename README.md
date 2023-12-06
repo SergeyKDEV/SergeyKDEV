@@ -32,7 +32,7 @@
         </div>
       </div>
       <h2>My Leetcode Stats:<h2>
-          <img src="https://leetcard.jacoblin.cool/SergeyKDEV?theme=nord&font=Montserrat&ext=heatmap">
+          <img src="https://leetcard.jacoblin.cool/SergeyKDEV?theme=dark&font=Montserrat&ext=heatmap">
     </div>
     <img src="https://komarev.com/ghpvc/?username=SergeyKDEV" alt="">
   </div>
