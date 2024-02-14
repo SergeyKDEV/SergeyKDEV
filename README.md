@@ -10,6 +10,7 @@
           <ul>
             <li>Python</li>
             <li>Django</li>
+            <li>Django DRF</li>
             <li>SQL</li>
             <li>HTML/CSS/Bootstrap</li>
             <li>Basic JS</li>
@@ -26,7 +27,7 @@
         <div>
           <p style="font-weight: bold;">Currently Learning:</p>
           <ul>
-            <li>Django DRF</li>
+            <li>CI/CD</li>
             <li>Data Structures & Algorithms</li>
           </ul>
         </div>
