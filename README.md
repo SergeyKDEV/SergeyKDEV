@@ -2,7 +2,7 @@
   <div>
     <h1 align="center">«Hello, world!» <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"
         height="32" /></h1>
-    <h2 align="center">Hi there! I am passionate about backend development and the IT world.</h2>
+    <h2 align="center">I am passionate about backend development and the IT world.</h2>
     <div>
       <div style="display: flex; justify-content: center;">
         <div style="width: 20%;">
