@@ -11,8 +11,11 @@
             <li>Python</li>
             <li>Django</li>
             <li>Django DRF</li>
+            <li>Docker / Docker Compose</li>
+            <li>GitHub Actions</li>
             <li>SQL</li>
-            <li>HTML/CSS/Bootstrap</li>
+            <li>Git</li>
+            <li>HTML / CSS / Bootstrap</li>
             <li>Basic JS</li>
           </ul>
         </div>
@@ -27,7 +30,6 @@
         <div>
           <p style="font-weight: bold;">Currently Learning:</p>
           <ul>
-            <li>CI/CD</li>
             <li>Data Structures & Algorithms</li>
           </ul>
         </div>
