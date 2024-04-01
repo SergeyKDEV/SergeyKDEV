@@ -20,9 +20,12 @@
         <div style="width: 20%;">
           <p style="font-weight: bold;">My Tools:</p>
           <ul>
-            <li>MacOS/Linux</li>
+            <li>MacOS / Linux</li>
             <li>PyCharm</li>
+            <li>VSCode</li>
             <li>Postman</li>
+            <li>iTerm</li>
+            <li>Dash</li>
           </ul>
         </div>
         <div>
