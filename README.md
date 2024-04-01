@@ -23,8 +23,9 @@
             <li>MacOS / Linux</li>
             <li>PyCharm</li>
             <li>VSCode</li>
+            <li>Vim | LunarVim</li>
             <li>Postman</li>
-            <li>iTerm</li>
+            <li>iTerm | Oh My Zsh + PowerLevel10k</li>
             <li>Dash</li>
           </ul>
         </div>
