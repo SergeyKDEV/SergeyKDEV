@@ -9,12 +9,10 @@
           <p style="font-weight: bold;">My stack:</p>
           <ul>
             <li>Python</li>
-            <li>Django</li>
-            <li>Django DRF</li>
+            <li>Django / DRF</li>
+            <li>SQL / PostgreSQL</li>
             <li>Docker / Docker Compose</li>
-            <li>GitHub Actions</li>
-            <li>SQL</li>
-            <li>Git</li>
+            <li>Git / GitHub Actions</li>
             <li>HTML / CSS / Bootstrap</li>
             <li>Basic JS</li>
           </ul>
