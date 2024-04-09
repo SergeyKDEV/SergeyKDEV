@@ -4,8 +4,8 @@
         height="32" /></h1>
     <h2 align="center">I am passionate about backend development and the IT world.</h2>
     <div style="display: flex; justify-content: center;">
-      <div style="width: 20%;">
-        <p style="font-weight: bold;">My stack:</p>
+      <div style="width: 30%;">
+        <div style="font-weight: bold;">My stack:</div>
         <ul>
           <li>Python</li>
           <li>Django / DRF</li>
@@ -16,8 +16,8 @@
           <li>Basic JS</li>
         </ul>
       </div>
-      <div style="width: 20%;">
-        <p style="font-weight: bold;">My Tools:</p>
+      <div style="width: 30%;">
+        <div style="font-weight: bold;">My Tools:</div>
         <ul>
           <li>MacOS / Linux</li>
           <li>PyCharm</li>
@@ -28,12 +28,12 @@
           <li>Dash</li>
         </ul>
       </div>
-      <div>
-        <p style="font-weight: bold;">Currently Learning:</p>
-        <ul>
-          <li>Data Structures & Algorithms</li>
-        </ul>
-      </div>
+    </div>
+    <div>
+      <p style="font-weight: bold;">Currently Learning:</p>
+      <ul>
+        <li>Data Structures & Algorithms</li>
+      </ul>
     </div>
     <h2>My Leetcode Stats:<h2>
         <img src="https://leetcard.jacoblin.cool/SergeyKDEV?theme=dark&font=Montserrat&ext=heatmap">
