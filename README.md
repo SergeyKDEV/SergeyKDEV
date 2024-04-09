@@ -4,9 +4,9 @@
         height="32" /></h1>
     <h2 align="center">I am passionate about backend development and the IT world.</h2>
     <div align="center">
-      <table cellspacing="0">
+      <table style="border-collapse: collapse;">
         <tr>
-          <td valign="top" width="33.3%">
+          <td valign="top" width="33.3%" style="border: none;">
             <h3>My stack:</h3>
             <ul>
               <li>Python</li>
@@ -18,7 +18,7 @@
               <li>Basic JS</li>
             </ul>
           </td>
-          <td valign="top" width="33.3%">
+          <td valign="top" width="33.3%" style="border: none;">
             <h3>My Tools:</h3>
             <ul>
               <li>MacOS / Linux</li>
@@ -30,7 +30,7 @@
               <li>Dash</li>
             </ul>
           </td>
-          <td valign="top" width="33.3%">
+          <td valign="top" width="33.3%" style="border: none;">
             <h3>Currently Learning:</h3>
             <ul>
               <li>Data Structures & Algorithms</li>
