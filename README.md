@@ -3,32 +3,34 @@
     <h1 align="center">«Hello, world!» <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"
         height="32" /></h1>
     <h2 align="center">I am passionate about backend development and the IT world.</h2>
-    <div style="display: flex; justify-content: center;">
-      <div style="width: 30%;">
-        <div style="font-weight: bold;">My stack:</div>
-        <ul>
-          <li>Python</li>
-          <li>Django / DRF</li>
-          <li>SQL / PostgreSQL</li>
-          <li>Docker / Docker Compose</li>
-          <li>Git / GitHub Actions</li>
-          <li>HTML / CSS / Bootstrap</li>
-          <li>Basic JS</li>
-        </ul>
-      </div>
-      <div style="width: 30%;">
-        <div style="font-weight: bold;">My Tools:</div>
-        <ul>
-          <li>MacOS / Linux</li>
-          <li>PyCharm</li>
-          <li>VSCode</li>
-          <li>Vim | LunarVim</li>
-          <li>Postman</li>
-          <li>iTerm | Oh My Zsh + PowerLevel10k</li>
-          <li>Dash</li>
-        </ul>
-      </div>
-    </div>
+    <table>
+      <tr>
+        <td valign="top" width="50%">
+          <h3>My stack:</h3>
+          <ul>
+            <li>Python</li>
+            <li>Django / DRF</li>
+            <li>SQL / PostgreSQL</li>
+            <li>Docker / Docker Compose</li>
+            <li>Git / GitHub Actions</li>
+            <li>HTML / CSS / Bootstrap</li>
+            <li>Basic JS</li>
+          </ul>
+        </td>
+        <td valign="top" width="50%">
+          <h3>My Tools:</h3>
+          <ul>
+            <li>MacOS / Linux</li>
+            <li>PyCharm</li>
+            <li>VSCode</li>
+            <li>Vim | LunarVim</li>
+            <li>Postman</li>
+            <li>iTerm | Oh My Zsh + PowerLevel10k</li>
+            <li>Dash</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
     <div>
       <p style="font-weight: bold;">Currently Learning:</p>
       <ul>
