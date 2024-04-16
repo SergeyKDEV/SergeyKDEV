@@ -22,8 +22,7 @@
             <h3>My Tools:</h3>
             <ul>
               <li>MacOS / Linux</li>
-              <li>PyCharm</li>
-              <li>VSCode</li>
+              <li>PyCharm / VSCode</li>
               <li>Vim | LunarVim</li>
               <li>Postman</li>
               <li>iTerm | Oh My Zsh + PowerLevel10k</li>
