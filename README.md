@@ -10,10 +10,15 @@
             <h3>My stack:</h3>
             <ul>
               <li>Python</li>
+              <li>FastAPI</li>
+              <li>Alembic</li>
+              <li>SQLAlchemy</li>
               <li>Django / DRF</li>
               <li>SQL / PostgreSQL</li>
+              <li>NoSQL / Redis</li>
               <li>Docker / Docker Compose</li>
-              <li>Git / GitHub Actions</li>
+              <li>k8s</li>
+              <li>Git / GitHub Actions / GitLab / GitLab CI/CD</li>
               <li>HTML / CSS / Bootstrap</li>
               <li>Basic JS</li>
             </ul>
